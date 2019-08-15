@@ -4,3 +4,4 @@ Espresso
 Latte
 Iced Capp
 Decaf
+Americano
